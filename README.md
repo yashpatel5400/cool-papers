@@ -1,6 +1,13 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## March 24, 2019
+### Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications
+https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf
+
+### Dynamo: Amazon’s Highly Available Key-value Store
+https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+
 ## March 17, 2019
 ### In Search of an Understandable Consensus Algorithm (Extended Version)
 https://raft.github.io/raft.pdf
