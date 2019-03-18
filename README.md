@@ -1,6 +1,17 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## March 17, 2019
+### In Search of an Understandable Consensus Algorithm (Extended Version)
+https://raft.github.io/raft.pdf
+
+## March 10, 2019
+### Visualizing and Understanding Convolutional Networks
+https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf
+
+## March 3, 2019
+Skipped
+
 ## February 24, 2019
 ### Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System
 https://people.eecs.berkeley.edu/~brewer/cs262b/update-conflicts.pdf
