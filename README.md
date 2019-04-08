@@ -1,6 +1,20 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## April 14, 2019
+### Generative Adversarial Nets
+https://arxiv.org/pdf/1406.2661.pdf
+
+## April 7, 2019
+### Learning to learn by gradient descent by gradient descent
+https://arxiv.org/pdf/1606.04474.pdf
+
+### Progressive Neural Networks
+https://arxiv.org/pdf/1606.04671.pdf
+
+## March 31, 2019
+Skipped
+
 ## March 24, 2019
 ### Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications
 https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf
