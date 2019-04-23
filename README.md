@@ -1,9 +1,19 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
-## April 14, 2019
+## May 5, 2019
 ### Generative Adversarial Nets
 https://arxiv.org/pdf/1406.2661.pdf
+
+## April 28, 2019
+Skipped
+
+## April 21, 2019
+### Spanner: Google’s Globally-Distributed Database
+https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf
+
+## April 14, 2019
+Skipped
 
 ## April 7, 2019
 ### Learning to learn by gradient descent by gradient descent
