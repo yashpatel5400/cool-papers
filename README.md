@@ -1,9 +1,20 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
-## May 5, 2019
+## May 18, 2019
+### Zookeeper
+https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf
+
+### Chubby (Optional)
+https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf
+
+
+## May 11, 2019
 ### Generative Adversarial Nets
 https://arxiv.org/pdf/1406.2661.pdf
+
+## May 5, 2019
+Skipped
 
 ## April 28, 2019
 Skipped
