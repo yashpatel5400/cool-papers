@@ -1,6 +1,10 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## May 25, 2019
+### Large-Scale Study of Curiosity-Driven Learning
+https://pathak22.github.io/large-scale-curiosity/
+
 ## May 18, 2019
 ### Zookeeper
 https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf
