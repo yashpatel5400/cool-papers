@@ -1,6 +1,16 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## June 9, 2019
+### The Part-Time Parliament (Paxos)
+https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf
+
+### Paxos Made Simple
+https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
+
+## June 2, 2019
+Skipped
+
 ## May 25, 2019
 ### Large-Scale Study of Curiosity-Driven Learning
 https://pathak22.github.io/large-scale-curiosity/
