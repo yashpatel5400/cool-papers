@@ -1,6 +1,13 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## June 16, 2019
+### Kafka: a Distributed Messaging System for Log Processing
+http://notes.stephenholiday.com/Kafka.pdf
+
+### Paxos Made Live - An Engineering Perspective
+https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf
+
 ## June 9, 2019
 ### The Part-Time Parliament (Paxos)
 https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf
