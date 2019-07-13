@@ -1,6 +1,21 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## July 13, 2019
+### VR Facial Animation via Multiview Image Translation
+https://research.fb.com/wp-content/uploads/2019/06/VR-Facial-Animation-via-Multiview-Image-Translation.pdf
+
+## July 6, 2019
+Skipped
+
+## June 30, 2019
+### Practical Byzantine Fault Tolerance
+http://pmg.csail.mit.edu/papers/osdi99.pdf
+
+## June 23, 2019
+### Universal Transformers
+https://arxiv.org/pdf/1807.03819.pdf
+
 ## June 16, 2019
 ### Kafka: a Distributed Messaging System for Log Processing
 http://notes.stephenholiday.com/Kafka.pdf
