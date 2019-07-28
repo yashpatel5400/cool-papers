@@ -1,12 +1,15 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
-## July 20, 2019
+## July 27, 2019
 ### A Border Gateway Protocol (BGP) RFC
 https://tools.ietf.org/html/rfc1105
 
 ### An Algorithm for Distributed Computation of a Spanning Tree in an Extended LAN
 https://www.it.uu.se/edu/course/homepage/datakom/ht06/slides/sta-perlman.pdf
+
+## July 20, 2019
+Skipped
 
 ## July 13, 2019
 ### VR Facial Animation via Multiview Image Translation
