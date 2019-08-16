@@ -1,6 +1,17 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+### August 18, 2019
+### TAO: Facebook’s Distributed Data Store for the Social Graph
+https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf
+
+## August 11, 2019
+### Handheld Multi-Frame Super-Resolution
+https://drive.google.com/file/d/1EC3L91DqxetMy60Y7dspPhj4gS8PAlu7/view
+
+## August 4, 2019
+Skipped
+
 ## July 27, 2019
 ### A Border Gateway Protocol (BGP) RFC
 https://tools.ietf.org/html/rfc1105
