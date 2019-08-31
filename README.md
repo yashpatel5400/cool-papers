@@ -1,9 +1,16 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
-### August 18, 2019
+## September 1, 2019
+### Semantic Photo Manipulation with a Generative Image Prior
+http://ganpaint.io/Bau_et_al_Semantic_Photo_Manipulation_preprint.pdf
+
+## August 25,2019
 ### TAO: Facebook’s Distributed Data Store for the Social Graph
 https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf
+
+### August 18, 2019
+Skipped
 
 ## August 11, 2019
 ### Handheld Multi-Frame Super-Resolution
