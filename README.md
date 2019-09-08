@@ -1,6 +1,10 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## September 8, 2019
+### Scaling Memcache at Facebook
+https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf
+
 ## September 1, 2019
 ### Semantic Photo Manipulation with a Generative Image Prior
 http://ganpaint.io/Bau_et_al_Semantic_Photo_Manipulation_preprint.pdf
