@@ -1,6 +1,10 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## September 15, 2019
+### TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems
+http://download.tensorflow.org/paper/whitepaper2015.pdf
+
 ## September 8, 2019
 ### Scaling Memcache at Facebook
 https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf
