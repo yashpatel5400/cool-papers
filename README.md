@@ -1,6 +1,10 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## September 22, 2019
+### Attention Is All You Need
+https://arxiv.org/pdf/1706.03762.pdf
+
 ## September 15, 2019
 ### TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems
 http://download.tensorflow.org/paper/whitepaper2015.pdf
