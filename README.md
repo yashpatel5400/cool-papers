@@ -1,6 +1,10 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## September 29, 2019
+### Efficient and Scalable Multiprocessor Fair Scheduling Using Distributed Weighted Round-Robin
+http://happyli.org/tongli/papers/dwrr.pdf
+
 ## September 22, 2019
 ### Attention Is All You Need
 https://arxiv.org/pdf/1706.03762.pdf
