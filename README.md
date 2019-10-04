@@ -1,6 +1,10 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## October 6, 2019
+### The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
+https://openreview.net/pdf?id=rJl-b3RcF7
+
 ## September 29, 2019
 ### Efficient and Scalable Multiprocessor Fair Scheduling Using Distributed Weighted Round-Robin
 http://happyli.org/tongli/papers/dwrr.pdf
