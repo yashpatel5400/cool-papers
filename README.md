@@ -1,6 +1,13 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## October 20, 2019
+### Bitcoin: A Peer-to-Peer Electronic Cash System
+https://bitcoin.org/bitcoin.pdf
+
+## October 13, 2019
+Skipped
+
 ## October 6, 2019
 ### The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
 https://openreview.net/pdf?id=rJl-b3RcF7
