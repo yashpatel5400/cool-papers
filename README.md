@@ -1,6 +1,14 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## November 3, 2019
+### VL2: A Scalable and Flexible Data Center Network
+http://web.eecs.umich.edu/~mosharaf/Readings/VL2.pdf
+
+## October 27, 2019
+### Casper the Friendly Finality Gadget
+https://arxiv.org/pdf/1710.09437.pdf
+
 ## October 20, 2019
 ### Bitcoin: A Peer-to-Peer Electronic Cash System
 https://bitcoin.org/bitcoin.pdf
