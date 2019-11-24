@@ -1,6 +1,15 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## December 1, 2019
+### The Rendering Equation
+http://www.cse.chalmers.se/edu/year/2011/course/TDA361/2007/rend_eq.pdf
+
+
+## November 24, 2019
+### Handheld Mobile Photography in Very Low Light
+https://arxiv.org/pdf/1910.11336.pdf
+
 ## November 3, 2019
 ### VL2: A Scalable and Flexible Data Center Network
 http://web.eecs.umich.edu/~mosharaf/Readings/VL2.pdf
