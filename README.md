@@ -1,6 +1,10 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## December 15, 2019
+### A better zip bomb
+https://www.usenix.org/system/files/woot19-paper_fifield_0.pdf
+
 ## December 8, 2019
 ### End-to-end differentiable learning of protein structure
 https://www.biorxiv.org/content/biorxiv/early/2018/08/29/265231.full.pdf
