@@ -1,6 +1,10 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## December 22, 2019
+### A Feasibility Study of Radio-frequency Retroreflector Attack
+https://www.usenix.org/system/files/conference/woot18/woot18-paper-wakabayashi.pdf
+
 ## December 15, 2019
 ### A better zip bomb
 https://www.usenix.org/system/files/woot19-paper_fifield_0.pdf
