@@ -1,6 +1,10 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## January 12, 2019
+### Neural Ordinary Differential Equations
+https://arxiv.org/pdf/1806.07366.pdf
+
 ## December 22, 2019
 ### A Feasibility Study of Radio-frequency Retroreflector Attack
 https://www.usenix.org/system/files/conference/woot18/woot18-paper-wakabayashi.pdf
