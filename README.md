@@ -1,7 +1,7 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
-## January 12, 2019
+## January 19, 2019
 ### Neural Ordinary Differential Equations
 https://arxiv.org/pdf/1806.07366.pdf
 
