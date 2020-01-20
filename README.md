@@ -1,6 +1,10 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## January 26, 2019
+### On the Expressive Power of Programming Languages 
+https://link.springer.com/content/pdf/10.1007%2F3-540-52592-0_60.pdf
+
 ## January 19, 2019
 ### Neural Ordinary Differential Equations
 https://arxiv.org/pdf/1806.07366.pdf
