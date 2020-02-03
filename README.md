@@ -1,6 +1,10 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## February 09, 2019
+### The design and implementation of an operating system to support distributed multimedia applications
+https://www.cl.cam.ac.uk/research/srg/netos/projects/archive/pegasus/papers/jsac-jun97.ps.gz
+
 ## January 26, 2019
 ### On the Expressive Power of Programming Languages 
 https://link.springer.com/content/pdf/10.1007%2F3-540-52592-0_60.pdf
