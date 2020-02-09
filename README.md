@@ -1,6 +1,10 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## February 16, 2019
+### COZ: Finding Code that Counts with Causal Profiling
+https://arxiv.org/pdf/1608.03676.pdf
+
 ## February 09, 2019
 ### The design and implementation of an operating system to support distributed multimedia applications
 https://www.cl.cam.ac.uk/research/srg/netos/projects/archive/pegasus/papers/jsac-jun97.ps.gz
