@@ -1,9 +1,39 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
-## February 16, 2019
+## April 12, 2019
+### Just say NO to Paxos Overhead: Replacing Consensus with Network Ordering
+https://www.usenix.org/system/files/conference/osdi16/osdi16-li.pdf
+
+## April 5, 2019
+### Maglev: A Fast and Reliable Software Network Load Balancer
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44824.pdf
+
+## March 29, 2019
+### A Distributional Code for Value in Dopamine-Based reinforcement learning
+https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI
+
+## March 22, 2019
+### Kraken: Leveraging Live Traffic Tests to Identify and Resolve Resource Utilization Bottlenecks in Large Scale Web Services
+https://research.fb.com/wp-content/uploads/2016/11/kraken_leveraging_live_traf_c_tests_to_identify_and_resolve_resource_utilization_bottlenecks_in_large_scale_web_services.pdf?
+
+## March 15, 2019
+### KinectFusion: Real-Time Dense Surface Mapping and Tracking
+https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ismar2011.pdf
+
+## March 8, 2019
+### Chosen Ciphertext Attacks Against Protocols Based on the RSA Encryption Standard
+https://link.springer.com/content/pdf/10.1007/BFb0055716.pdf
+
+## March 1, 2019
 ### COZ: Finding Code that Counts with Causal Profiling
 https://arxiv.org/pdf/1608.03676.pdf
+
+## February 23, 2019
+Skipped
+
+## February 16, 2019
+Skipped
 
 ## February 09, 2019
 ### The design and implementation of an operating system to support distributed multimedia applications
