@@ -1,49 +1,76 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
-## April 12, 2019
+## May 31, 2020
+### Firecracker: Lightweight Virtualization for Serverless Applications
+https://www.usenix.org/system/files/nsdi20-paper-agache.pdf
+
+## May 24, 2020
+### Meta-learning update rules for unsupervised representation learning
+https://arxiv.org/pdf/1804.00222.pdf
+
+## May 17, 2020
+### Link-level Measurements from an 802.11b Mesh Network
+http://conferences.sigcomm.org/sigcomm/2004/papers/p442-aguayo1111.pdf
+
+## May 10, 2020
+### Millions of Tiny Databases
+https://www.usenix.org/system/files/nsdi20-paper-brooker.pdf
+
+## May 3, 2020
+### XORs in The Air: Practical Wireless Network Coding
+https://people.csail.mit.edu/rahul/papers/cope-sigcomm2006.pdf
+
+## April 26, 2020
+### Femto-Photography: Capturing and Visualizing the Propagation of Light
+http://giga.cps.unizar.es/~ajarabo/pubs/femtoSIG2013/downloads/velten_sig13.pdf
+
+## April 19, 2020
 ### Just say NO to Paxos Overhead: Replacing Consensus with Network Ordering
 https://www.usenix.org/system/files/conference/osdi16/osdi16-li.pdf
 
-## April 5, 2019
+## April 12, 2020
+Skipped
+
+## April 5, 2020
 ### Maglev: A Fast and Reliable Software Network Load Balancer
 https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44824.pdf
 
-## March 29, 2019
+## March 29, 2020
 ### A Distributional Code for Value in Dopamine-Based reinforcement learning
 https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI
 
-## March 22, 2019
+## March 22, 2020
 ### Kraken: Leveraging Live Traffic Tests to Identify and Resolve Resource Utilization Bottlenecks in Large Scale Web Services
 https://research.fb.com/wp-content/uploads/2016/11/kraken_leveraging_live_traf_c_tests_to_identify_and_resolve_resource_utilization_bottlenecks_in_large_scale_web_services.pdf?
 
-## March 15, 2019
+## March 15, 2020
 ### KinectFusion: Real-Time Dense Surface Mapping and Tracking
 https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ismar2011.pdf
 
-## March 8, 2019
+## March 8, 2020
 ### Chosen Ciphertext Attacks Against Protocols Based on the RSA Encryption Standard
 https://link.springer.com/content/pdf/10.1007/BFb0055716.pdf
 
-## March 1, 2019
+## March 1, 2020
 ### COZ: Finding Code that Counts with Causal Profiling
 https://arxiv.org/pdf/1608.03676.pdf
 
-## February 23, 2019
+## February 23, 2020
 Skipped
 
-## February 16, 2019
+## February 16, 2020
 Skipped
 
-## February 09, 2019
+## February 09, 2020
 ### The design and implementation of an operating system to support distributed multimedia applications
 https://www.cl.cam.ac.uk/research/srg/netos/projects/archive/pegasus/papers/jsac-jun97.ps.gz
 
-## January 26, 2019
+## January 26, 2020
 ### On the Expressive Power of Programming Languages 
 https://link.springer.com/content/pdf/10.1007%2F3-540-52592-0_60.pdf
 
-## January 19, 2019
+## January 19, 2020
 ### Neural Ordinary Differential Equations
 https://arxiv.org/pdf/1806.07366.pdf
 
