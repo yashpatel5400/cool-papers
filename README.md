@@ -1,13 +1,44 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## July 26, 2020
+### The Google File System
+https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf
+
+## July 19, 2020
+### The Geometry of Innocent Flesh on the Bone: Return-into-libc without Function Calls (on the x86)
+https://dl.acm.org/doi/pdf/10.1145/1315245.1315313
+
+## July 12, 2020
+### Differential Privacy: A Survey of Results
+https://web.cs.ucdavis.edu/~franklin/ecs289/2010/dwork_2008.pdf
+
+## July 5, 2020
+### Imaging Vector Fields Using Line Integral Convolution
+http://cs.brown.edu/courses/csci2370/2000/1999/cabral.pdf
+
+## June 28, 2020
+### Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queue Algorithms
+https://www.cs.rochester.edu/~scott/papers/1996_PODC_queues.pdf
+
+## June 21, 2020
+### Jukebox: A Generative Model for Music
+https://arxiv.org/pdf/2005.00341.pdf
+
+## June 14, 2020
+### FORESHADOW: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution
+https://foreshadowattack.eu/foreshadow.pdf
+
+## June 7, 2020
+### N-Dimensional Rigid Body Dynamics
+https://marctenbosch.com/ndphysics/NDrigidbody.pdf
+
 ## May 31, 2020
 ### Firecracker: Lightweight Virtualization for Serverless Applications
 https://www.usenix.org/system/files/nsdi20-paper-agache.pdf
 
 ## May 24, 2020
-### Meta-learning update rules for unsupervised representation learning
-https://arxiv.org/pdf/1804.00222.pdf
+Skipped
 
 ## May 17, 2020
 ### Link-level Measurements from an 802.11b Mesh Network
