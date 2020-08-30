@@ -1,6 +1,14 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## September 20, 2020
+### Piranha: A Scalable Architecture Based on Single-Chip Multiprocessing
+https://barroso.org/publications/isca00.pdf
+
+## September 13, 2020
+### Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes
+http://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf
+
 ## July 26, 2020
 ### The Google File System
 https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf
