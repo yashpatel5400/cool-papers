@@ -1,6 +1,10 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## October 4, 2020
+### The Next 700 Programming Languages 
+https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf
+
 ## September 20, 2020
 ### Piranha: A Scalable Architecture Based on Single-Chip Multiprocessing
 https://barroso.org/publications/isca00.pdf
