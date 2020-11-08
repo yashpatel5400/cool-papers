@@ -1,6 +1,27 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+
+## November 8, 2020
+### Local Optimization for Robust Signed Distance Field Collision
+https://mmacklin.com/sdfcontact.pdf
+
+## November 1, 2020
+### In Search of an Understandable Consensus Algorithm (Repeat)
+https://raft.github.io/raft.pdf
+
+## October 25, 2020
+### Hey, You, Get Off of My Cloud: Exploring Information Leakage in Third-Party Compute Clouds
+https://hovav.net/ucsd/dist/cloudsec.pdf
+
+## October 18, 2020
+### Meltdown: Reading Kernel Memory from User Space 
+https://meltdownattack.com/meltdown.pdf
+
+## October 11, 2020
+### Precomputed Atmospheric Scattering 
+http://www-ljk.imag.fr/Publications/Basilic/com.lmc.publi.PUBLI_Article@11e7cdda2f7_f64b69/article.pdf
+
 ## October 4, 2020
 ### The Next 700 Programming Languages 
 https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf
