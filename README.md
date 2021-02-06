@@ -1,6 +1,51 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## January 31, 2021
+Skipped
+
+## January 24, 2021
+### MuZero: Mastering Go, chess, shogi and Atari without rules
+https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules
+
+## January 17, 2021
+### New Directions in Cryptography
+https://www.cs.utexas.edu/~shmat/courses/cs380s/dh.pdf
+
+## January 10, 2021
+### 3D Shape Reconstruction from Vision and Touch
+https://research.fb.com/wp-content/uploads/2020/12/3D-Shape-Reconstruction-from-Vision-and-Touch.pdf
+
+## January 3, 2021
+### Propositions as Types
+http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf
+
+## December 27, 2020
+### Mastering the game of Go with deep neural networks and tree search
+https://vk.com/doc-44016343_437229031?dl=56ce06e325d42fbc72
+
+## December 20, 2020
+### Parallel generational-copying garbage collection with a block-structured heap
+http://www.cs.tufts.edu/comp/250RTS/archive/simon-marlow/par-gc-ismm08.pdf
+
+## December 13, 2020
+### Attention Is All You Need
+https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+
+## December 6, 2020
+### Predicate Dispatching: A Unified Theory of Dispatch
+https://homes.cs.washington.edu/~mernst/pubs/dispatching-ecoop98.pdf
+
+## November 29, 2020
+### Composable and Compilable Macros
+https://www.cs.utah.edu/plt/publications/macromod.pdf
+
+## November 22, 2020
+### Programming and Reasoning with Algebraic Effects and Dependent Types
+https://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf
+
+## November 15, 2020
+Skipped
 
 ## November 8, 2020
 ### Local Optimization for Robust Signed Distance Field Collision
