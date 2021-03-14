@@ -1,25 +1,21 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
-## March 21, 2021
+## March 14, 2021
 ### Differentiable Vector Graphics Rasterization for Editing and Learning
 https://people.csail.mit.edu/tzumao/diffvg/diffvg.pdf
 
-## March 14, 2021
+## March 7, 2021
 ### Experiences with Modeling Network Topologies at Multiple Levels of Abstraction
 https://www.usenix.org/system/files/nsdi20-paper-mogul.pdf
 
-## March 7, 2021
+## February 28, 2021
 ### NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
 https://arxiv.org/pdf/2003.08934.pdf
 
-## February 28, 2021
+## February 21, 2021
 ### Yodel: Strong Metadata Security for Voice Calls
 https://dl.acm.org/doi/pdf/10.1145/3341301.3359648
-
-## February 21, 2021
-### Robust Eulerian-on-Lagrangian Rods
-http://gmrv.es/Publications/2020/SRBO20/SanchezBanderas_SIG2020_final.pdf
 
 ## February 14, 2021
 ### Teechain: A Secure Payment Network with Asynchronous Blockchain Access
