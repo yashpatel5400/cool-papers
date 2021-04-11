@@ -33,19 +33,19 @@ https://www.cs.cornell.edu/~jnfoster/papers/netcache.pdf
 ### ABC: A Simple Explicit Congestion Controller for Wireless Networks
 https://arxiv.org/pdf/1905.03429.pdf
 
-## April 26, 2021
+## April 25, 2021
 ### ALLSTEPS: Curriculum-driven Learning of Stepping Stone Skills
 https://www.cs.ubc.ca/~van/papers/2020-allsteps/allsteps-arxiv-small.pdf
 
-## April 19, 2021
+## April 18, 2021
 ### Visualizing the Loss Landscape of Neural Nets
 https://arxiv.org/pdf/1712.09913.pdf
 
-## April 12, 2021
+## April 11, 2021
 ### Quanta Burst Photography
 http://wisionlab.cs.wisc.edu/wp-content/uploads/2020/06/quanta_burst_photography_wision.pdf
 
-## April 5, 2021
+## April 4, 2021
 ### Scaling a file system to many cores using an operation log
 https://people.csail.mit.edu/nickolai/papers/bhat-scalefs.pdf
 
