@@ -1,45 +1,51 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
-## June 13, 2021
+## July 3, 2021
 ### Sol: Fast Distributed Computation Over Slow Networks
 https://www.usenix.org/system/files/nsdi20-paper-lai.pdf
 
-## June 6, 2021
+## June 27, 2021
 ### Multiprogramming a 64 kB Computer Safely and Efficiently
 http://www.amitlevy.com/papers/tock-sosp2017.pdf
 
-## May 30, 2021
+## June 20, 2021
 ### MATch: Differentiable Material Graphs for Procedural Material Capture
 http://match.csail.mit.edu/papers/ToG20.pdf
 
-## May 23, 2021
+## June 13, 2021
 ### Soft Typing
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.9333&rep=rep1&type=pdf
 
-## May 23, 2021
+## June 6, 2021
 ### Strata: A Cross Media File System
 https://www.cs.utexas.edu/users/witchel/pubs/kwon17sosp-strata.pdf
 
-## May 16, 2021
+## May 30, 2021
 ### RoboCut: Hot-wire Cutting with Robot-controlled Flexible Rods
 http://crl.ethz.ch/papers/hotwirecutter.pdf
 
-## May 9, 2021
+## May 23, 2021
 ### NetCache: Balancing Key-Value Stores with Fast In-Network Caching
 https://www.cs.cornell.edu/~jnfoster/papers/netcache.pdf
 
-## May 2, 2021
+## May 16, 2021
 ### ABC: A Simple Explicit Congestion Controller for Wireless Networks
 https://arxiv.org/pdf/1905.03429.pdf
 
-## April 25, 2021
+## May 9, 2021
 ### ALLSTEPS: Curriculum-driven Learning of Stepping Stone Skills
 https://www.cs.ubc.ca/~van/papers/2020-allsteps/allsteps-arxiv-small.pdf
 
-## April 18, 2021
+## May 2, 2021
 ### Visualizing the Loss Landscape of Neural Nets
 https://arxiv.org/pdf/1712.09913.pdf
+
+## April 25, 2021
+Skipped
+
+## April 18, 2021
+Skipped
 
 ## April 11, 2021
 ### Quanta Burst Photography
