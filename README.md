@@ -1,6 +1,10 @@
 # cool-papers
 Papers that we find interesting (modelled off of: https://github.com/mike-bowles/hdDeepLearningStudy)
 
+## Sep 21, 2023
+### FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU
+https://arxiv.org/pdf/2303.06865.pdf
+
 ## July 3, 2021
 ### Sol: Fast Distributed Computation Over Slow Networks
 https://www.usenix.org/system/files/nsdi20-paper-lai.pdf
